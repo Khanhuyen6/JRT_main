@@ -10,10 +10,11 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "",
+    "BOTNAME": "Bot By Uyên",
     "PREFIX": "!",
     "ADMINBOT": [
-        "UIDFacebook"
+        "100072525901837"
+        "100048199162051"
     ],
     "DATABASE": {
         "sqlite": {
